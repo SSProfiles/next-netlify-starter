@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
-import Home from '@components/Home'
+
 
 export default function Home() {
   return (
@@ -13,7 +13,7 @@ export default function Home() {
 
       <main>
        <Home/>
-        <Header title="Welcome to my application" />
+        <Header title="Welcome to SSP mock tests" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
