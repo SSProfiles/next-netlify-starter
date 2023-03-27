@@ -12,7 +12,6 @@ export default function Home() {
       </Head>
 
       <main>
-       <Home/>
         <Header title="Welcome to SSP mock tests" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
