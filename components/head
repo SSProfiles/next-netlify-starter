@@ -1,0 +1,10 @@
+import React from 'react';
+
+export function Home() {
+  return (
+    <div className='App'>
+      <h1>B S S Pramodh</h1>
+      <h2>competitive Blog</h2>
+    </div>
+  );
+}
